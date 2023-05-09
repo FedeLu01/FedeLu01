@@ -1,10 +1,4 @@
-- 👋 Hola! Soy Federico Lucero, de Villa Luzuriaga, La Matanza.
-- 👀 Me interesa aprender, experimentar, y usar la creatividad al máximo. 
-- 🌱 Actualmente estoy aprendiendo desarrollo web en CoderHouse y estudiando la tecnicatura de analista de sistemas.
-- 💞️ Busco colaborar en proyectos para expandir mi conocimiento y habilidades.
-- 📫 Me pueden contactar por: 
-      Gmail: fedelucero95@gmail.com   
-      Linkedin: https://www.linkedin.com/in/federico-lucero-0625b6128/
+
       
 
 <!---
